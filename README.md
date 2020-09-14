@@ -1,5 +1,7 @@
 # Product Sales Analysis Using Python Pandas and Python Matplotlib
 
+If your unable to open this analysis in my github use this (Link)[https://nbviewer.jupyter.org/github/vineel-raj-varma/Product--SalesData-Analysis/blob/master/Product%20Sales%20Analysis/Sales_Analysis.ipynb]
+
 
 Here I took the advantage of Python Pandas & Python Matplotlib to analyze and answer real world business questions about 12 months worth of sales data. The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc.
 
